@@ -19,4 +19,4 @@ Discord: ![Discord](https://img.shields.io/badge/-Nulo7-5865F2?style=flat-square
 
 &nbsp;
 
-![Your GitHub stats](https://github-readme-stats-sigma-rouge.vercel.app/api?username=IsNulo&show_icons=true&theme=default)
+![Your GitHub stats](https://github-readme-stats-sigma-rouge.vercel.app/api?username=IsNulo&show_icons=true&theme=dark)
